@@ -1,0 +1,6 @@
+extraction:
+  cpp:
+    index:
+      build_command:
+        - cd src
+        - make
